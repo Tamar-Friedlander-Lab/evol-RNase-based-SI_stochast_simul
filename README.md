@@ -1,5 +1,6 @@
 The role of promiscuous molecular recognition in the evolution of RNase-based self-incompatibility
 Keren Erez (1), Amit Jangid (1), Ohad Noy Feldheim (2) and Tamar Friedlander (1)
+
      These authors contributed equally: Keren Erez, Amit Jangid
 
     (1) The Robert H. Smith Institute of Plant Sciences and Genetics in Agriculture
@@ -67,6 +68,7 @@ The following are the requirements for the Python scripts:
 
 The role of promiscuous molecular recognition in the evolution of RNase-based self-incompatibility
 Keren Erez (1), Amit Jangid (1), Ohad Noy Feldheim (2) and Tamar Friedlander (1)
+
     These authors contributed equally: Keren Erez, Amit Jangid
 
     (1) The Robert H. Smith Institute of Plant Sciences and Genetics in Agriculture
