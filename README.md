@@ -41,7 +41,7 @@ The following are the requirements for the Python scripts:
 3. Demo:
     a) Here we provide the data and the Python scripts to regenerate the figures in the main manuscript in the folder 'simulated_dataset'. 
        Data and corresponding scripts are provided in the individual sub-folder named fig{i} respective to the figure number in the main manuscript.
-    b) Running the scripts will provide the figures which are in the main manuscript and in the supplementary.
+    b) Running the scripts will provide the figures that are in the main manuscript and the supplementary.
     c) The run time for only these scripts (for given datasets) is under 3 munites. 
        To regenerate the whole data for a single run, it takes 90 to 120 hrs on a clock speed of 2.4 GHz.
 
@@ -78,12 +78,12 @@ Keren Erez (1), Amit Jangid (1), Ohad Noy Feldheim (2) and Tamar Friedlander (1)
 ###############################################################################################################
 
 
-This stochastic simulations studies the evolution of a finite population of individuals carrying an S-locus, via rounds of mutation and selection, in search for trajectories of allelic expansion, where crossbreeding between individuals is determined by their allelic content. 
+This stochastic simulation studies the evolution of a finite population of individuals carrying an S-locus, via rounds of mutation and selection, in search for trajectories of allelic expansion, where crossbreeding between individuals is determined by their allelic content. 
 
 
 Source Code:
 
-The following is the order of running the python scripts to regenerate the whole datasets. To regenerate the whole datasets for a single run, it takes from 96 hrs to 120 hrs depending on the parameter sets:
+The following is the order of running the Python scripts to regenerate the whole datasets. To regenerate the whole datasets for a single run, it takes from 96 hrs to 120 hrs depending on the parameter sets:
 
 
 1. group_complete_by_mis.py
