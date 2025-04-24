@@ -51,8 +51,12 @@ The following are the requirements for the Python scripts:
 
 ###############################################################################################################  
 
-
-
+Following interaction energy matrix netween amino acids (AA) is used in the simulation. In the published paper, there is typo in the interaction energy matrix. In the paper, the interaction energy between E(P,P) should be -0.75 instead of -0.25. 
+          H       P      +     -
+    H  -1.00,   0.00,  0.00,  0.00
+    P   0.00,  -0.75, -0.25, -0.25
+    +   0.00,  -0.25,  1.00, -1.25
+    -   0.00,  -0.25, -1.25,  1.00
 
 
 
